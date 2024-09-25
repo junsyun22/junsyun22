@@ -20,3 +20,8 @@ You can click the Preview link to take a look at your changes.
 ### 데이터베이스
 ![MySQL Badge](https://img.shields.io/badge/mysql%208.0.37-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MyBatis Badge](https://img.shields.io/badge/mybatis%203.0.3-000000?style=for-the-badge&logoColor=white)
+![JPA Badge](https://img.shields.io/badge/jpa%202.2-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+### 배포
+![Docker Badge](https://img.shields.io/badge/docker%2024.0.0-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
